@@ -1,0 +1,29 @@
+
+
+#projects {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.secondimg {
+    width: 100%;
+
+}
+
+#carouselExampleIndicators {
+    height: 80%;
+}
+
+.container .projects {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+projects.style {
+    position: relative;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+carousel-control-width: 85%;
