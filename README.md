@@ -1,5 +1,4 @@
-# cssportfolio1
-# CSSPortfolio
+# CSSPortfolio1
 ## Portfolio
 ## Description
 This is my Web Development portfolio.
@@ -23,6 +22,7 @@ Installation
 
 ## Usage
 Used bootstrap to create webpage.
-![kaiLogo](./CSSPortfolio/assets/images/kailogo.png)
-![kaiHeadshot](./CSSPortfolio/assets/images/kaiheadshot.jpg)
-![quLogo](./CSSPortfolio/assets/images/PRIDE_QU_LOGO.png)
+![kaiLogo](./assets/images/kailogo.png)
+![kaiHeadshot](./assets/images/kaiheadshot.jpg)
+![quLogo](./assets/images/PRIDE_QU_LOGO.png)
+![DeployedApplication](./assets/images/deployedApplication.png)
