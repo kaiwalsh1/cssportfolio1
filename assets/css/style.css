@@ -27,5 +27,9 @@
 }
 
 #quLogo {
-    background-image: url("./assets/images/PRIDE_QU_LOGO.png");
+    height: 400px;
+    width: 400px;
+    background-image: url("../images/PRIDE_QU_LOGO.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
