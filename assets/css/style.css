@@ -26,10 +26,7 @@
     margin-bottom: 50px;
 }
 
-#quLogo {
-    height: 400px;
-    width: 400px;
-    background-image: url("../images/PRIDE_QU_LOGO.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+.carousel-inner {
+    max-width: 100%;
+    object-fit: fill;
 }
