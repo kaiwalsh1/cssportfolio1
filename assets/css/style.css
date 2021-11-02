@@ -1,3 +1,10 @@
+/* Carousel Images */
+.carousel {
+    margin: auto;
+    max-width: 50%;
+}
+
+/* Projects Section */
 #projects {
     margin-top: 30px;
 }
@@ -16,6 +23,7 @@
     padding: 15px;
 }
 
+/* About and Contact Sections */
 #about {
     margin-top: 30px;
     margin-bottom: 50px;
@@ -24,11 +32,6 @@
 #contact {
     margin-top: 30px;
     margin-bottom: 50px;
-}
-
-.carousel {
-    margin: auto;
-    max-width: 50%;
 }
 
 .parent {
