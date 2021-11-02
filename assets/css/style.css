@@ -26,7 +26,18 @@
     margin-bottom: 50px;
 }
 
-.carousel-inner {
-    max-width: 100%;
-    object-fit: fill;
+.carousel {
+    margin: auto;
+    max-width: 50%;
+}
+
+.parent {
+    display: flex;
+    align-content: center;
+}
+
+.section2 {
+    float: left;
+    max-width: 40%;
+    margin: auto;
 }
