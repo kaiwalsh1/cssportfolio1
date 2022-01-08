@@ -21,6 +21,8 @@
 
 .card-text {
     padding: 15px;
+    align-items: center;
+    flex-direction: row;
 }
 
 /* About and Contact Sections */
