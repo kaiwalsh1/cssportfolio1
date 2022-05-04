@@ -48,4 +48,4 @@ Used bootstrap to create webpage.
 ![puppyLove](./assets/images/dogRunning.png)
 ![famYOUly](./assets/images/famYOUly.png)
 ![coRank](./assets/images/corank.png)
-![DeployedApplication2](./assets/images/deployedApplication2.png)
+![DeployedApplication2](./assets/images/cssPortfolio.png)
