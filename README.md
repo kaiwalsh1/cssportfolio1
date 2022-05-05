@@ -37,6 +37,7 @@ AS A player
 [Usage](#Usage)
 
 Licensing
+MIT
 
 Installation
 

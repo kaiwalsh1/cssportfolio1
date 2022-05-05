@@ -29,11 +29,13 @@
 #about {
     margin-top: 30px;
     margin-bottom: 50px;
+    padding: 10px;
 }
 
 #contact {
     margin-top: 30px;
     margin-bottom: 50px;
+    padding: 10px;
 }
 
 .parent {
@@ -49,4 +51,14 @@
 
 #id {
     padding: 10px 15px;
+}
+
+.navbar {
+    font-size: 20px;
+    background-color: aquamarine;
+    
+}
+
+#navbarNav {
+    font-weight: bold;
 }
